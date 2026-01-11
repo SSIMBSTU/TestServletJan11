@@ -149,8 +149,8 @@ public class StudentServlet extends HttpServlet {
 
     private static final String DB_URL =
             "jdbc:mysql://localhost:3306/student_db";
-    private static final String DB_USER = "root";
-    private static final String DB_PASS = "1234";
+    private static final String DB_USER = "****";
+    private static final String DB_PASS = "****";
 
     @Override
     protected void doPost(HttpServletRequest request,
@@ -263,7 +263,7 @@ SELECT * FROM students;
 ### 👨‍🏫 Author
 
 **Dr. Ziaur Rahman**
-Professor, Dept of ICT
+Professor, Dept of ICT, 
 Mawlana Bhashani Science and Technology University
 
 ---
