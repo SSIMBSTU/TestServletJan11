@@ -262,7 +262,7 @@ SELECT * FROM students;
 
 ### 👨‍🏫 Author
 
-**Dr. Ziaur Rahman**
+**Dr. Ziaur Rahman**, 
 Professor, Dept of ICT, 
 Mawlana Bhashani Science and Technology University
 
